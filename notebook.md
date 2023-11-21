@@ -18,7 +18,7 @@
 
   2. 如果我们想要把仓库内容拷贝到某个根目录下，举例如 cloud-calculation 文件夹，只需要右击 cloud-calculation 文件夹然后点击 git bash here，然后 git clone ssh 的内容即可（右键 paste），就从 GitHub 上将这个仓库文件夹拷贝到 cloud-calculation 文件夹中了。
 
-     ![image-20231116102903281](img/image-20231116102903281.png)
+     ![image-20231116102903281](img\image-20231116102903281.png)
 
 - #### git commit 操作
 
