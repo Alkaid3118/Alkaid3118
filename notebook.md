@@ -23,9 +23,14 @@
 - #### git commit 操作
 
   1. 右击仓库名的文件夹 git bash here
+  
   2. git add（空格）.
+  
   3. git commit -m "提交信息"（此时本地仓库内容已缓存）
+  
   4. 此时再 git push 就更新到 GitHub 上对应的仓库了
+  
+     ![image-20231121163942553](D:\大学\大三上\cloud_calculation\Alkaid3118\img\image-20231121163942553.png)
 
 ### 在 Git 中设置提交者身份（username 和 email 等），了解基于提交者身份的代码溯源方法
 
